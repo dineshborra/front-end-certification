@@ -4,9 +4,12 @@
  {
  colour:red;
  }
+ h{
+ font-family:lobster;
+ }
  p {
     font-size: 16px;
-    font-family: lobster;
+    font-family: Monospace;
   }
  
 </style>
